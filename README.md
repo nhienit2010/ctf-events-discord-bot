@@ -14,4 +14,5 @@ $ python -m pip install -r requirements.txt
 $ python main.py &
 ```
 
+The bot will be announce at 00:00 Friday every week
 > Testing
